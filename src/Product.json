@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "image": "/public/Images/product-1-1.webp",
+    "secondImage": "/public/Images/product-1-2.webp",
+    "productName": "Shield Conditioner",
+    "price": 18.99,
+    "oldPrice": 24.99,
+    "tag": "Sale"
+  },
+  {
+    "id": 2,
+    "image": "/public/Images/product-2-1.webp",
+    "secondImage": "/public/Images/product-2-2.webp",
+    "productName": "Perfecting Face Oil",
+    "price": 32.5,
+    "tag": "New"
+  },
+  {
+    "id": 3,
+    "image": "/public/Images/product-3-1.webp",
+    "secondImage": "/public/Images/product-3-2.webp",
+    "productName": "Enriched Hand & Body Wash",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "tag": "Sale"
+  },
+  {
+    "id": 4,
+    "image": "/public/Images/product-4-1.webp",
+    "secondImage": "/public/Images/product-4-2.webp",
+    "productName": "Shield Shampoo",
+    "price": 14.0,
+    "tag": "New"
+  },
+  {
+    "id": 5,
+    "image": "/public/Images/product-5-1.webp",
+    "secondImage": "/public/Images/product-5-2.png",
+    "productName": "Enriched Hand Wash",
+    "price": 22.75
+  },
+  {
+    "id": 6,
+    "image": "/public/Images/product-6-1.webp",
+    "secondImage": "/public/Images/product-6-2.webp",
+    "productName": "Enriched Duo",
+    "price": 19.5,
+    "oldPrice": 24.0,
+    "tag": "Sale"
+  },
+  {
+    "id": 7,
+    "image": "/public/Images/product-7-1.webp",
+    "secondImage": "/public/Images/product-7-2.webp",
+    "productName": "Shield Spray",
+    "price": 17.99
+  },
+  {
+    "id": 8,
+    "image": "/public/Images/product-8-1.webp",
+    "secondImage": "/public/Images/product-8-2.webp",
+    "productName": "Moisturizing Eye Cream",
+    "price": 26.0
+  },
+  {
+    "id": 9,
+    "image": "/public/Images/product-9-1.webp",
+    "secondImage": "/public/Images/product-9-2.webp",
+    "productName": "Moisturizing Moisture Mask",
+    "price": 15.25
+  },
+  {
+    "id": 10,
+    "image": "/public/Images/product-10-1.webp",
+    "secondImage": "/public/Images/product-10-2.webp",
+    "productName": "Moisturizing Polishing Treatment",
+    "price": 21.5
+  },
+  {
+    "id": 11,
+    "image": "/public/Images/product-11-1.webp",
+    "secondImage": "/public/Images/product-11-2.webp",
+    "productName": "Scalp Moisturizing Cream",
+    "price": 28.0
+  },
+  {
+    "id": 12,
+    "image": "/public/Images/product-12-1.webp",
+    "secondImage": "/public/Images/product-12-2.webp",
+    "productName": "Natural Coconut Cleansing Oil",
+    "price": 12.99,
+    "oldPrice": 15.99,
+    "tag": "Sale"
+  },
+  {
+    "id": 13,
+    "image": "/public/Images/product-13-1.webp",
+    "secondImage": "/public/Images/product-13-2.webp",
+    "productName": "Sideway Travel Case Set",
+    "price": 18.5
+  },
+  {
+    "id": 14,
+    "image": "/public/Images/product-14-1.webp",
+    "secondImage": "/public/Images/product-14-2.webp",
+    "productName": "Untangling Comb",
+    "price": 34.99
+  },
+  {
+    "id": 15,
+    "image": "/public/Images/product-15-1.webp",
+    "secondImage": "/public/Images/product-15-2.webp",
+    "productName": "Vacation Travel Case Set",
+    "price": 11.75
+  },
+  {
+    "id": 16,
+    "image": "/public/Images/product-16-1.webp",
+    "secondImage": "/public/Images/product-16-2.webp",
+    "productName": "Vaulted Mirror",
+    "price": 25.0
+  }
+]
